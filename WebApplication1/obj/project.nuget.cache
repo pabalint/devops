@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LU7makLdt9fwzIHSXuAoaWzwj8ghfmPZJZXzbZx/kIRCyS0RFzuBBYwnEMMmQfzev3R3EERj2q4FwJeFtmIR5g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pabal\\Source\\Repos\\pabalint\\devops\\WebApplication1\\WebApplication1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pabal\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.6\\microsoft.visualstudio.azure.containers.tools.targets.1.19.6.nupkg.sha512"
+  ],
+  "logs": []
+}
